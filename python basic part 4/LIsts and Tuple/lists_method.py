@@ -1,0 +1,17 @@
+list = [ 7, 5, 3, 2, 4, 6, 1]
+print(list)
+
+list.append(8)
+print(list)
+list.sort()
+print(list)
+list.sort(reverse=True)
+print(list)
+list.reverse()
+print(list)
+list.insert(0,0)
+print(list)
+list.pop(0)
+print(list)
+list.remove(7)
+print(list)
