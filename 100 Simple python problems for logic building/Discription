@@ -1,1 +1,109 @@
-# I am going to slove 100 problems of python to make my basic and logic building stronger. 
+I am going to slove 100 problems of python (Easy lvl) to make my basic and logic building stronger. 
+1. Variables & Basic Arithmetic (Problems 1–10)
+•	1. Sum of Two: Accept two numbers from the user and print their sum.
+•	2. Area of a Circle: Calculate the area using a given radius (A = π r²).
+•	3. Celsius to Fahrenheit: Convert a temperature from Celsius to Fahrenheit.
+•	4. Simple Interest: Calculate simple interest using Principal, Rate, and Time.
+•	5. Swap Variables: Swap the values of two variables without using a third variable.
+•	6. Quotient & Remainder: Find the quotient and remainder of two numbers.
+•	7. Days to Years: Convert a given number of days into years, weeks, and days.
+•	8. Square Root: Find the square root of a number without using the math library.
+•	9. BMI Calculator: Calculate Body Mass Index using weight (kg) and height (meters).
+•	10. Cube of a Number: Take an integer input and print its cube value. [1, 2, 3, 4, 5]
+2. Conditional Logic & Decisions (Problems 11–25)
+•	11. Even or Odd: Determine if a number is even or odd.
+•	12. Leap Year: Check if a given year is a leap year.
+•	13. Largest of Three: Find the largest of three numbers using if-elif-else.
+•	14. Positive or Negative: Check if a number is positive, negative, or zero.
+•	15. Vowel or Consonant: Check if an input character is a vowel or a consonant.
+•	16. Grading System: Input a score (0–100) and output the letter grade (A, B, C, D, F).
+•	17. Triangle Validity: Check if a triangle is valid given its three internal angles.
+•	18. Profit or Loss: Input cost price and selling price to calculate profit or loss.
+•	19. Voting Eligibility: Check if a person can vote based on their age input.
+•	20. Multiple of 5 and 11: Check if a number is divisible by both 5 and 11.
+•	21. Character Type: Check if an input character is an alphabet, digit, or special character.
+•	22. Quadrant Finder: Determine which quadrant a coordinate point (x, y) lies in.
+•	23. Electricity Bill: Calculate total bill based on units consumed using tiered pricing.
+•	24. Weekday Name: Input a number (1–7) and print the corresponding weekday name.
+•	25. Passcode Match: Check if a user-entered password matches a stored secret password. [1, 2, 3, 4, 5]
+3. Basic Loops & Iteration (Problems 26–40)
+•	26. Count to Ten: Print numbers from 1 to 10 using a for loop.
+•	27. Reverse Count: Print numbers from 10 down to 1 using a while loop.
+•	28. Multiplication Table: Print the multiplication table of any user-specified number.
+•	29. Sum of N Numbers: Find the sum of the first N natural numbers.
+•	30. Factorial: Calculate the factorial of a given number.
+•	31. Count Digits: Count the total number of digits in an integer.
+•	32. Sum of Digits: Find the sum of all digits in a given integer.
+•	33. Reverse an Integer: Reverse the digits of an integer (e.g., 123 becomes 321).
+•	34. Palindrome Number: Check if an integer reads the same backward as forward.
+•	35. Fibonacci Sequence: Print the first N terms of the Fibonacci sequence.
+•	36. Power of a Number: Find the value of x raised to the power of y using a loop.
+•	37. Prime Number Check: Check if a given number is prime or composite.
+•	38. Find Factors: Print all factors of a given integer.
+•	39. Armstrong Number: Check if a 3-digit number equals the sum of the cubes of its digits.
+•	40. Until Zero: Keep accepting numbers from the user until they enter 0, then show the total sum. [1, 2, 3, 4, 5]
+4. Nested Loops & Patterns (Problems 41–50)
+•	41. Square Star Pattern: Print a 5 × 5 square grid of asterisks (*).
+•	42. Right Triangle Star: Print a right-angled triangle pattern of asterisks.
+•	43. Inverted Right Triangle: Print an inverted right-angled triangle pattern.
+•	44. Number Pyramid: Print a pyramid where row i contains the number i repeated i times.
+•	45. Prime Range: Print all prime numbers between two given numbers (e.g., 20 to 50).
+•	46. Pascal's Triangle: Generate the first N rows of Pascal's triangle.
+•	47. GCD / HCF: Find the Greatest Common Divisor of two numbers using loops.
+•	48. LCM: Find the Least Common Multiple of two numbers.
+•	49. Perfect Number: Check if a number equals the sum of its proper divisors (excluding itself).
+•	50. All Palindromes: Find and print all palindrome numbers between 100 and 500. [1, 2, 3, 4, 5]
+5. String Manipulation (Problems 51–65)
+•	51. String Length: Find the length of a string without using the len() function.
+•	52. Reverse a String: Accept a string and print it backward.
+•	53. Palindrome String: Check if a string is a palindrome (ignoring casing).
+•	54. Count Vowels: Count the total number of vowels in a string.
+•	55. Remove Spaces: Remove all whitespaces from a given text string.
+•	56. Toggle Case: Convert all lowercase letters to uppercase and vice versa in a sentence.
+•	57. Substring Check: Check if a specific word exists inside a larger sentence.
+•	58. Word Counter: Count the total number of words in a sentence.
+•	59. Character Frequency: Find how many times a specific character appears in a string.
+•	60. Remove Digits: Strip all numbers out of an alphanumeric string.
+•	61. Anagram Check: Check if two strings are anagrams of each other.
+•	62. Most Frequent Character: Find the character that appears the most in a string.
+•	63. Extract Username: Extract the username part from an email address string (before @).
+•	64. Capitalize First Letters: Capitalize the first letter of every word in a sentence.
+•	65. String Compression: Compress a string like "AAABBC" into "A3B2C1". [1, 2, 3, 4, 5]
+6. List Operations & Logic (Problems 66–80)
+•	66. List Sum: Find the sum of all elements in a numerical list.
+•	67. Min and Max: Find the smallest and largest numbers in a list without using min() or max().
+•	68. List Average: Calculate the average value of elements in a list.
+•	69. Count Elements: Count how many times an item appears in a list.
+•	70. Remove Duplicates: Remove all duplicate values from a list.
+•	71. List Reversal: Reverse the elements of a list in-place.
+•	72. Find Second Largest: Find the second largest number in a list.
+•	73. Filter Evens: Create a new list containing only the even numbers from a source list.
+•	74. Merge & Sort: Merge two separate lists and sort the final result.
+•	75. Linear Search: Search for a target value in a list and return its index.
+•	76. List Cumulative Sum: Transform a list into its cumulative sum (e.g., [1, 2, 3] becomes [1, 3, 6]).
+•	77. Common Elements: Find all overlapping elements between two separate lists.
+•	78. Split List: Split a list into two halves based on index.
+•	79. Sublist Check: Check if a list is a sublist of another list.
+•	80. Rotate List: Shift all elements of a list to the right by K positions. [1, 2, 3, 4, 5]
+7. Dictionaries & Sets (Problems 81–90)
+•	81. Square Dictionary: Create a dictionary matching numbers 1 to 5 to their squares.
+•	82. Merge Dictionaries: Combine two dictionaries into one.
+•	83. Key Check: Check if a specific key exists in a dictionary.
+•	84. Sum Values: Sum all the numerical values inside a dictionary.
+•	85. Frequency Map: Build a dictionary counting the occurrences of each item in a list.
+•	86. Remove Key: Delete a specified key from a dictionary safely.
+•	87. Unique Items Set: Extract all unique elements from two lists using a set.
+•	88. Set Intersection: Find the common elements of two sets using set operations.
+•	89. Min/Max Dict Value: Find the key associated with the minimum value in a dictionary.
+•	90. Map Filter: Filter out items from a dictionary whose values are less than 10. [1, 2, 3, 4, 5]
+8. Intermediate Logic & Basic Functions (Problems 91–100)
+•	91. Bubble Sort: Manually sort a list of numbers using the Bubble Sort algorithm.
+•	92. Binary Search: Implement binary search on a sorted list of numbers.
+•	93. Decimal to Binary: Convert a base-10 integer into its binary representation.
+•	94. Binary to Decimal: Convert a binary string back into a base-10 integer.
+•	95. Matrix Addition: Add two 2 × 2 matrices represented as nested lists.
+•	96. Validate Parentheses: Check if a string of brackets ()[]{} is properly balanced.
+•	97. Leap Year Function: Write a reusable function that returns True or False for leap years.
+•	98. Perfect Square: Check if a number is a perfect square without using built-in roots.
+•	99. Flatten List: Convert a 2D nested list like [[1, 2], [3, 4]] into a flat 1D list [1, 2, 3, 4].
+•	100. FizzBuzz: Print numbers 1 to 100, but print "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both. [1, 2, 3, 4, 5]
